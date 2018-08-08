@@ -1,0 +1,7 @@
+{
+  "name": "RichPanel",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
